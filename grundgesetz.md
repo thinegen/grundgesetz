@@ -424,7 +424,7 @@ Im Bereiche der ausschließlichen Gesetzgebung des Bundes haben die Länder die 
 ### Artikel 73
 
 Der Bund hat die ausschließliche Gesetzgebung über:  
-1. die auswärtigen Angelegenheiten;  
+1. die auswärtigen Angelegenheiten sowie die Verteidigung einschließlich der Wehrpflicht für Männer vom vollendeten achtzehnten Lebensjahr an und des Schutzes der Zivilbevölkerung;  
 2. die Staatsangehörigkeit im Bunde;  
 3. die Freizügigkeit, das Paßwesen, die Ein- und Auswanderung und die Auslieferung;  
 4. das Währungs-, Geld- und Münzwesen, Maße und Gewichte sowie die Zeitbestimmung;  
@@ -491,7 +491,7 @@ Ein vom Bundestage beschlossenes Gesetz kommt zustande, wenn der Bundesrat zusti
 
 ### Artikel 79
 
-**(1)** Das Grundgesetz kann nur durch ein Gesetz geändert werden, das den Wortlaut des Grundgesetzes ausdrücklich ändert oder ergänzt.  
+**(1)** Das Grundgesetz kann nur durch ein Gesetz geändert werden, das den Wortlaut des Grundgesetzes ausdrücklich ändert oder ergänzt. Bei völkerrechtlichen Verträgen, die eine Friedensregelung, die Vorbereitung einer Friedensregelung oder den Abbau einer besatzungsrechtlichen Ordnung zum Gegenstand haben oder der Verteidigung der Bundesrepublik zu dienen bestimmt sind, genügt zur Klarstellung, daß die Bestimmungen des Grundgesetzes dem Abschluß und dem Inkraftsetzen der Verträge nicht entgegenstehen, eine Ergänzung des Wortlautes des Grundgesetzes, die sich auf diese Klarstellung beschränkt.  
 **(2)** Ein solches Gesetz bedarf der Zustimmung von zwei Dritteln der Mitglieder des Bundestages und zwei Dritteln der Stimmen des Bundesrates.  
 **(3)** Eine Änderung dieses Grundgesetzes, durch welche die Gliederung des Bundes in Länder, die grundsätzliche Mitwirkung der Länder bei der Gesetzgebung oder die in den Artikeln 1 und 20 niedergelegten Grundsätze berührt werden, ist unzulässig.  
 
@@ -853,6 +853,10 @@ Artikel 7 Absatz 3 Satz 1 findet keine Anwendung in einem Lande, in dem am 1. Ja
 ### Artikel 142
 
 Ungeachtet der Vorschrift des Artikels 31 bleiben Bestimmungen der Landesverfassungen auch insoweit in Kraft, als sie in Übereinstimmung mit den Artikeln 1 bis 18 dieses Grundgesetzes Grundrechte gewährleisten.  
+
+### Artikel 142a
+
+Die Bestimmungen dieses Grundgesetzes stehen dem Abschluß und dem Inkraftsetzen der am 26. und 27. Mai 1952 in Bonn und Paris unterzeichneten Verträge (Vertrag über die Beziehungen der Bundesrepublik Deutschland und den Drei Mächten und Vertrag über die Gründung der Europäischen Verteidigungsgemeinschaft) mit ihren Zusatz- und Nebenabkommen, insbesondere dem Protokoll vom 26. Juli 1952, nicht entgegen.  
 
 ### Artikel 143
 
