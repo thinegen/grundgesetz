@@ -494,26 +494,31 @@ Die konkurrierende Gesetzgebung erstreckt sich auf folgende Gebiete:
 11. das Recht der Wirtschaft (Bergbau, Industrie, Energiewirtschaft, Handwerk, Gewerbe, Handel, Bank- und Börsenwesen, privatrechtliches Versicherungswesen);  
 11a. die Erzugung und Nutzung der Kernenergie zu friedlichen Zwecken, die Errichtung und den Betrieb von Anlagen, die diesem Zweck dienen, den Schutz gegen Gefahren, die bei Freiwerden von Kernenergie oder durch ionisierende Strahlen entstehen und die Beseitigung radioaktiver Stoffe;  
 12. das Arbeitsrecht einschließlich der Betriebsverfassung, des Arbeitsschutzes und der Arbeitsvermittlung sowie die Sozialversicherung einschließlich der Arbeitslosenversicherung;  
-13. die Förderung der wissenschaftlichen Forschung;  
+13. die Regelung der Ausbildungsbeihilfen und die Förderung der wissenschaftlichen Forschung;  
 14. das Recht der Enteignung, soweit sie auf den Sachgebieten der Artikel 73 und 74 in Betracht kommt;  
 15. die Überführung von Grund und Boden, von Naturschätzen und Produktionsmitteln in Gemeineigentum oder in andere Formen der Gemeinwirtschaft;  
 16. die Verhütung des Mißbrauchs wirtschaftlicher Machtstellung;  
 17. die Förderung der land- und forstwirtschaftlichen Erzeugung, die Sicherung der Ernährung, die Ein- und Ausfuhr land- und forstwirtschaftlicher Erzeugnisse, die Hochsee- und Küstenfischerei und den Küstenschutz;  
 18. den Grundstücksverkehr, das Bodenrecht und das landwirtschaftliche Pachtwesen, das Wohnungswesen, das Siedlungs- und Heimstättenwesen;  
 19. die Maßnahmen gegen gemeingefährliche und übertragbare Krankheiten bei Menschen und Tieren, die Zulassung zu ärztlichen und anderen Heilberufen und zum Heilgewerbe, den Verkehr mit Arzneien, Heil- und Betäubungsmitteln und Giften;  
+19a. die wirtschaftliche Sicherung der Krankenhäuser und die Regelung der Krankenhauspflegesätze;  
 20. den Schutz beim Verkehr mit Lebens- und Genußmitteln, Bedarfsgegenständen, Futtermitteln und land- und forstwirtschaftlichem Saat- und Pflanzgut, den Schutz der Bäume und Pflanzen gegen Krankheiten und Schädlinge;  
 21. die Hochsee- und Küstenschiffahrt sowie die Seezeichen, die Binnenschiffahrt, den Wetterdienst, die Seewasserstraßen und die dem allgemeinen Verkehr dienenden Binnenwasserstraßen;  
-22. den Straßenverkehr, das Kraftfahrwesen und den Bau und die Unterhaltung von Landstraßen des Fernverkehrs;  
+22. den Straßenverkehr, das Kraftfahrwesen, den Bau und die Unterhaltung von Landstraßen für den Fernverkehr sowie die Erhebung und Verteilung von Gebühren für die Benutzung öffentlicher Straßen mit Fahrzeugen;  
 23. die Schienenbahnen, die nicht Bundeseisenbahnen sind, mit Ausnahme der Bergbahnen.  
 
 ### Artikel 75
 
-Der Bund hat das Recht, unter den Voraussetzungen des Artikels 72 Rahmenvorschriften zu erlassen über:  
+**(1)**  Der Bund hat das Recht, unter den Voraussetzungen des Artikels 72 Rahmenvorschriften zu erlassen über:  
 1. die Rechtsverhältnisse der im öffentlichen Dienste der Länder, Gemeinden und anderen Körperschaften des öffentlichen Rechtes stehenden Personen;  
+1a. die allgemeinen Grundsätze des Hochschulwesens;  
 2. die allgemeinen Rechtsverhältnisse der Presse und des Films;  
 3. das Jagdwesen, den Naturschutz und die Landschaftspflege;  
 4. die Bodenverteilung, die Raumordnung und den Wasserhaushalt;  
 5. das Melde- und Ausweiswesen.  
+
+**(2)** Rahmenvorschriften nach Absatz 1 Nr. 1 können mit Zustimmung des Bundesrates auch einheitliche Maßstäbe für den Aufbau und die Bemessung der Besoldung einschließlich der Bewertung der Ämter sowie Mindest- und Höchstbeiträge vorsehen. Der Zustimmung des Bundesrates bedürfen auch Gesetze nach Artikel 73 Nr. 8, die von den nach Satz 1 getroffenen Regeln abweichen.  
+**(3)** Absatz 2 gilt für Rahmenvorschriften nach Artikel 98 Abs. 3 Satz 2 und Gesetze nach Artikel 98 Abs. 1 entsprechend.  
 
 ### Artikel 76
 
@@ -686,7 +691,7 @@ Die rechtsprechende Gewalt ist den Richtern anvertraut; sie wird durch das Bunde
 **(1)** Der Bund kann für Angelegenheiten des gewerblichen Rechtsschutzes ein Bundesgericht errichten.  
 **(2)** Der Bund kann Wehrstrafgerichte für die Streitkräfte als Bundesgerichte errichten. Sie können die Strafgerichtsbarkeit nur im Verteidigungsfalle sowie über Angehörige der Streitkräfte ausüben, die in das Ausland entsandt oder an Bord von Kriegsschiffen eingeschifft sind. Das Nähere regelt ein Bundesgesetz. Diese Gerichte gehören zum Geschäftsbereich des Bundesjustizministers. Ihre hauptamtlichen Richter müssen die Befähigung zum Richteramt haben.  
 **(3)** Oberster Gerichtshof für die in Absatz 1 und 2 genannten Gerichte ist der Bundesgerichtshof.  
-**(4)** Der Bund kann für Dienststrafverfahren gegen Bundesbeamte und Bundesrichter Bundesdienst-strafgerichte sowie für Dienststrafverfahren gegen Soldaten und für Verfahren über Beschwerden von Soldaten Bundesdienstgerichte errichten.  
+**(4)** Der Bund kann für Personen, die zu ihm in einem öffentlich-rechtlichen Verhältnis stehen, Bundesgerichte zur Entscheidung in Disziplinarverfahren und Beschwerdeverfahren errichten.  
 
 ### Artikel 97
 
