@@ -893,6 +893,13 @@ Der Bund tritt in die Rechte und Pflichten der Verwaltung des Vereinigten Wirtsc
 **(6)** Beteiligungen des ehemaligen Landes Preußen an Unternehmen des privaten Rechtes gehen auf den Bund über. Das Nähere regelt ein Bundesgesetz, das auch Abweichendes bestimmen kann.  
 **(7)** Soweit über Vermögen, das einem Lande oder einer Körperschaft oder Anstalt des öffentlichen Rechtes nach den Absätzen 1 bis 3 zufallen würde, von dem danach Berechtigten durch ein Landesgesetz, auf Grund eines Landesgesetzes oder in anderer Weise bei Inkrafttreten des Grundgesetzes verfügt worden war, gilt der Vermögensübergang als vor der Verfügung erfolgt.  
 
+### Artikel 135a
+
+Durch die in Artikel 134 Abs. 4 und Artikel 135 Abs. 5 vorbehaltene Gesetzgebung des Bundes kann auch bestimmt werden, daß nicht oder nicht in voller Höhe zu erfüllen sind  
+1. Verbindlichkeiten des Reiches sowie Verbindlichkeiten des ehemaligen Landes Preußen und sonstiger nicht mehr bestehender Körperschaften und Anstalten des öffentlichen Rechts,  
+2. Verbindlichkeiten des Bundes oder anderer Körperschaften und Anstalten des öffentlichen Rechts, welche mit dem Übergang von Vermögenswerten nach Artikel 89, 90, 134 und 135 im Zusammenhang stehen, und Verbindlichkeiten dieser Rechtsträger, die auf Maßnahmen der in Nummer 1 bezeichneten Rechtsträger beruhen,  
+3. Verbindlichkeiten der Länder und Gemeinden (Gemeindeverbände), die aus Maßnahmen entstanden sind, welche diese Rechtsträger vor dem 1. August 1945 zur Durchführung von Anordnungen der Besatzungsmächte oder zur Beseitigung eines kriegsbedingten Notstandes im Rahmen dem Reich obliegender oder vom Reich übertragener Verwaltungsaufgaben getroffen haben.  
+
 ### Artikel 136
 
 **(1)** Der Bundesrat tritt erstmalig am Tage des ersten Zusammentrittes des Bundestages zusammen.  
