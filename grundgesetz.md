@@ -2,17 +2,11 @@
 
 *Im Bewußtsein seiner Verantwortung vor Gott und den Menschen,*
 
-*von dem Willen beseelt, seine nationale und staatliche Einheit zu wahren und als gleichberechtigtes Glied in einem vereinten Europa dem Frieden der Welt zu dienen, hat das Deutsche Volk*
+*von dem Willen beseelt, als gleichberechtigtes Glied in einem vereinten Europa dem Frieden der Welt zu dienen,*
 
-*in den Ländern Baden, Bayern, Bremen, Hamburg, Hessen, Niedersachsen, Nordrhein-Westfalen, Rheinland-Pfalz, Schleswig-Holstein, Württemberg-Baden und Württemberg-Hohenzollern,*
+*hat sich das Deutsche Volk kraft seiner verfassungsgebenden Gewalt dieses Grundgesetz gegeben.*
 
-*um dem staatlichen Leben für eine Übergangszeit eine neue Ordnung zu geben,*
-
-*kraft seiner verfassungsgebenden Gewalt dieses Grundgesetz der Bundesrepublik Deutschland beschlossen.*
-
-*Es hat auch für jene Deutschen gehandelt, denen mitzuwirken versagt war.*
-
-*Das gesamte Deutsche Volk bleibt aufgefordert, in freier Selbstbestimmung die Einheit und Freiheit Deutschlands zu vollenden.*
+*Die Deutschen in den Ländern Baden-Württemberg, Bayern, Berlin, Brandenburg, Bremen, Hamburg, Hessen, Mecklenburg-Vorpommern, Niedersachsen, Nordrhein-Westfalen, Rheinland-Pfalz, Saarland, Sachsen, Sachsen-Anhalt, Schleswig-Holstein und Thüringen haben in freier Selbstbestimmung die Einheit und Freiheit Deutschlands vollendet. Damit gilt dieses Grundgesetz für das gesamte Deutsche Volk.*
 
 ## I. Die Grundrechte
 
@@ -160,7 +154,7 @@ Die Bundesflagge ist schwarz-rot-gold.
 
 ### Artikel 23
 
-Dieses Grundgesetz gilt zunächst im Gebiete der Länder Baden, Bayern, Bremen, Groß-Berlin, Hamburg, Hessen, Niedersachsen, Nordrhein-Westfalen, Rheinland-Pfalz, Schleswig-Holstein, Württemberg-Baden und Württemberg-Hohenzollern. In anderen Teilen Deutschlands ist es nach deren Beitritt in Kraft zu setzen.  
+(weggefallen)
 
 ### Artikel 24
 
@@ -331,7 +325,7 @@ Durch den Bundesrat wirken die Länder bei der Gesetzgebung und Verwaltung des B
 ### Artikel 51
 
 **(1)** Der Bundesrat besteht aus Mitgliedern der Regierungen der Länder, die sie bestellen und abberufen. Sie können durch andere Mitglieder ihrer Regierungen vertreten werden.  
-**(2)** Jedes Land hat mindestens drei Stimmen, Länder mit mehr als zwei Millionen Einwohnern haben vier, Länder mit mehr als sechs Millionen Einwohnern fünf Stimmen.  
+**(2)** Jedes Land hat mindestens drei Stimmen, Länder mit mehr als zwei Millionen Einwohnern haben vier, Länder mit mehr als sechs Millionen Einwohnern fünf, Länder mit mehr als sieben Millionen Einwohnern sechs Stimmen.  
 **(3)** Jedes Land kann so viele Mitglieder entsenden, wie es Stimmen hat. Die Stimmen eines Landes können nur einheitlich und nur durch anwesende Mitglieder oder deren Vertreter abgegeben werden.  
 
 ### Artikel 52
@@ -1040,10 +1034,12 @@ Der Bund tritt in die Rechte und Pflichten der Verwaltung des Vereinigten Wirtsc
 
 ### Artikel 135a
 
-Durch die in Artikel 134 Abs. 4 und Artikel 135 Abs. 5 vorbehaltene Gesetzgebung des Bundes kann auch bestimmt werden, daß nicht oder nicht in voller Höhe zu erfüllen sind  
+**(1)** Durch die in Artikel 134 Abs. 4 und Artikel 135 Abs. 5 vorbehaltene Gesetzgebung des Bundes kann auch bestimmt werden, daß nicht oder nicht in voller Höhe zu erfüllen sind  
 1. Verbindlichkeiten des Reiches sowie Verbindlichkeiten des ehemaligen Landes Preußen und sonstiger nicht mehr bestehender Körperschaften und Anstalten des öffentlichen Rechts,  
 2. Verbindlichkeiten des Bundes oder anderer Körperschaften und Anstalten des öffentlichen Rechts, welche mit dem Übergang von Vermögenswerten nach Artikel 89, 90, 134 und 135 im Zusammenhang stehen, und Verbindlichkeiten dieser Rechtsträger, die auf Maßnahmen der in Nummer 1 bezeichneten Rechtsträger beruhen,  
 3. Verbindlichkeiten der Länder und Gemeinden (Gemeindeverbände), die aus Maßnahmen entstanden sind, welche diese Rechtsträger vor dem 1. August 1945 zur Durchführung von Anordnungen der Besatzungsmächte oder zur Beseitigung eines kriegsbedingten Notstandes im Rahmen dem Reich obliegender oder vom Reich übertragener Verwaltungsaufgaben getroffen haben.  
+
+**(2)** Absatz 1 findet entsprechende Anwendung auf Verbindlichkeiten der Deutschen Demokratischen Republik oder ihrer Rechtsträger sowie auf Verbindlichkeiten des Bundes oder anderer Körperschaften und Anstalten des öffentlichen Rechts, die mit dem Übergang von Vermögenswerten der Deutschen Demokratischen Republik auf Bund, Länder und Gemeinden im Zusammenhang stehen, und auf Verbindlichkeiten, die auf Maßnahmen der Deutschen Demokratischen Republik oder ihrer Rechtsträger beruhen.  
 
 ### Artikel 136
 
@@ -1078,7 +1074,9 @@ Ungeachtet der Vorschrift des Artikels 31 bleiben Bestimmungen der Landesverfass
 
 ### Artikel 143
 
-(weggefallen)
+**(1)** Recht in dem in Artikel 3 des Einigungsvertrags genannten Gebiet kann längstens bis zum 31. Dezember 1992 von Bestimmungen dieses Grundgesetzes abweichen, soweit und solange infolge der unterschiedlichen Verhältnisse die völlige Anpassung an die grundgesetzliche Ordnung noch nicht erreicht werden kann. Abweichungen dürfen nicht gegen Artikel 19 Abs. 2 verstoßen und müssen mit den in Artikel 79 Abs. 3 genannten Grundsätzen vereinbar sein.  
+**(2)** Abweichungen von den Abschnitten II, VIII, VIIIa, IX, X und XI sind längstens bis zum 31. Dezember 1995 zulässig.  
+**(3)** Unabhängig von Absatz 1 und 2 haben Artikel 41 des Einigungsvertrags und Regelungen zu seiner Durchführung auch insoweit Bestand, als sie vorsehen, daß Eingriffe in das Eigentum auf dem in Artikel 3 dieses Vertrags genannten Gebiet nicht mehr rückgängig gemacht werden.  
 
 ### Artikel 144
 
@@ -1093,4 +1091,4 @@ Ungeachtet der Vorschrift des Artikels 31 bleiben Bestimmungen der Landesverfass
 
 ### Artikel 146
 
-Dieses Grundgesetz verliert seine Gültigkeit an dem Tage, an dem eine Verfassung in Kraft tritt, die von dem deutschen Volke in freier Entscheidung beschlossen worden ist.  
+Dieses Grundgesetz, das nach Vollendung der Einheit und Freiheit Deutschlands für das gesamte deutsche Volk gilt, verliert seine Gültigkeit an dem Tage, an dem eine Verfassung in Kraft tritt, die von dem deutschen Volke in freier Entscheidung beschlossen worden ist.  
