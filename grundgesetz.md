@@ -618,7 +618,7 @@ Der Bund errichtet eine Währungs- und Notenbank als Bundesbank.
 
 ### Artikel 92
 
-Die rechtsprechende Gewalt ist den Richtern anvertraut; sie wird durch das Bundesverfassungsgericht, durch das Oberste Bundesgericht, durch die in diesem Grundgesetze vorgesehenen Bundesgerichte und durch die Gerichte der Länder ausgeübt.  
+Die rechtsprechende Gewalt ist den Richtern anvertraut; sie wird durch das Bundesverfassungsgericht, durch die in diesem Grundgesetze vorgesehenen Bundesgerichte und durch die Gerichte der Länder ausgeübt.  
 
 ### Artikel 93
 
@@ -637,21 +637,15 @@ Die rechtsprechende Gewalt ist den Richtern anvertraut; sie wird durch das Bunde
 
 ### Artikel 95
 
-**(1)** Zur Wahrung der Einheitlichkeit des Bundesrechts wird ein Oberstes Bundesgericht errichtet.  
-**(2)** Das Oberste Bundesgericht entscheidet in Fällen, deren Entscheidung für die Einheitlichkeit der Rechtsprechung der oberen Bundesgerichte von grundsätzlicher Bedeutung ist.  
-**(3)** Über die Berufung der Richter des Obersten Bundesgerichtes entscheidet der Bundesjustizminister gemeinsam mit dem Richterwahlaussschuß, der aus den Landesjustizministern und einer gleichen Anzahl von Mitgliedern besteht, die vom Bundestage gewählt werden.  
-**(4)** Im übrigen werden die Verfassung des Obersten Bundesgerichts und sein Verfahren durch Bundesgesetz geregelt.  
+**(1)** Für die Gebiete der ordentlichen, der Verwaltungs-, der Finanz-, der Arbeits- und der Sozialgerichtsbarkeit errichtet der Bund als oberste Gerichtshöfe den Bundesgerichtshof, das Bundesverwaltungsgericht, den Bundesfinanzhof, das Bundesarbeitsgericht und das Bundessozialgericht.  
+**(2)** Über die Berufung der Richter dieser Gerichte entscheidet der für das jeweilige Sachgebiet zuständige Bundesminister gemeinsam mit einem Richterwahlausschuß, der aus den für das jeweilige Sachgebiet zuständigen Ministern der Länder und einer gleichen Anzahl von Mitgliedern besteht, die vom Bundestage gewählt werden.  
+**(3)** Zur Wahrung der Einheitlichkeit der Rechtsprechung ist ein Gemeinsamer Senat der in Absatz 1 genannten Gerichte zu bilden. Das Nähere regelt ein Bundesgesetz.  
 
 ### Artikel 96
 
-**(1)** Für das Gebiet der ordentlichen, der Verwaltungs-, der Finanz-, der Arbeits- und Sozialgerichtsbarkeit sind obere Bundesgerichte zu errichten.  
-**(2)** Auf die Richter der oberen Bundesgerichte findet der Artikel 95 Absatz 3 mit der Maßgabe Anwendung, daß an die Stelle des Bundesjustizministers und der Landesjustizminister die für das jeweilige Sachgebiet zuständigen Minister treten. Ihre Dienstverhältnisse sind durch besonderes Bundesgesetz zu regeln.  
-
-### Artikel 96a
-
 **(1)** Der Bund kann für Angelegenheiten des gewerblichen Rechtsschutzes ein Bundesgericht errichten.  
 **(2)** Der Bund kann Wehrstrafgerichte für die Streitkräfte als Bundesgerichte errichten. Sie können die Strafgerichtsbarkeit nur im Verteidigungsfalle sowie über Angehörige der Streitkräfte ausüben, die in das Ausland entsandt oder an Bord von Kriegsschiffen eingeschifft sind. Das Nähere regelt ein Bundesgesetz. Diese Gerichte gehören zum Geschäftsbereich des Bundesjustizministers. Ihre hauptamtlichen Richter müssen die Befähigung zum Richteramt haben.  
-**(3)** Oberes Bundesgericht für die in Absatz 1 und 2 genannten Gerichte ist der Bundesgerichtshof.  
+**(3)** Oberster Gerichtshof für die in Absatz 1 und 2 genannten Gerichte ist der Bundesgerichtshof.  
 **(4)** Der Bund kann für Dienststrafverfahren gegen Bundesbeamte und Bundesrichter Bundesdienststrafgerichte sowie für Dienststrafverfahren gegen Soldaten und für Verfahren über Beschwerden von Soldaten Bundesdienstgerichte errichten.  
 
 ### Artikel 97
@@ -668,8 +662,7 @@ Die rechtsprechende Gewalt ist den Richtern anvertraut; sie wird durch das Bunde
 **(5)** Die Länder können für Landesrichter eine Absatz 2 entsprechende Regelung treffen. Geltendes Landesverfassungsrecht bleibt unberührt. Die Entscheidung über eine Richteranklage steht dem Bundesverfassungsgericht zu.  
 
 ### Artikel 99
-
-Dem Bundesverfassungsgerichte kann durch Landesgesetz die Entscheidung von Verfassungsstreitigkeiten innerhalb eines Landes, den oberen Bundesgerichtshöfen für den letzten Rechtszug die Entscheidung in solchen Sachen zugewiesen werden, bei denen es sich um die Anwendung von Landesrecht handelt.  
+Dem Bundesverfassungsgerichte kann durch Landesgesetz die Entscheidung von Verfassungsstreitigkeiten innerhalb eines Landes, den in Artikel 95 Abs. 1 genannten obersten Gerichtshöfen für den letzten Rechtszug die Entscheidung in solchen Sachen zugewiesen werden, bei denen es sich um die Anwendung von Landesrecht handelt.  
 
 ### Artikel 100
 
