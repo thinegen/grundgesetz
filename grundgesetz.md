@@ -622,7 +622,7 @@ Gesetze die aufgrund des Artikels 74 Nr. 11a ergehen, können mit Zustimmung des
 
 ### Artikel 87d
 
-**(1)** Die Luftverkehrsverwaltung wird in bundeseigener Verwaltung geführt.  
+**(1)** Die Luftverkehrsverwaltung wird in bundeseigener Verwaltung geführt. Über die öffentlich-rechtliche oder privat-rechtliche Organisationsform wird durch Bundesgesetz entschieden.  
 **(2)** Durch Bundesgesetz, das der Zustimmung des Bundesrates bedarf, können Aufgaben der Luftverkehrsverwaltung den Ländern als Auftragsverwaltung übertragen werden.  
 
 ### Artikel 88
