@@ -71,23 +71,32 @@
 
 **(1)** Alle Deutschen haben das Recht, Vereine und Gesellschaften zu bilden.  
 **(2)** Vereinigungen, deren Zwecke oder deren Tätigkeit den Strafgesetzen zuwiderlaufen oder die sich gegen die verfassungsmäßige Ordnung oder gegen den Gedanken der Völkerverständigung richten, sind verboten.  
-**(3)** Das Recht, zur Wahrung und Förderung der Arbeits- und Wirtschaftsbedingungen Vereinigungen zu bilden, ist für jedermann und für alle Berufe gewährleistet. Abreden, die dieses Recht einschränken oder zu behindern suchen, sind nichtig, hierauf gerichtete Maßnahmen sind rechtswidrig.  
+**(3)** Maßnahmen nach den Artikeln 12 a, 35 Abs. 2 und 3, Artikel 87 a Abs. 4 und Artikel 91 dürfen sich nicht gegen Arbeitskämpfe richten, die zur Wahrung und Förderung der Arbeits- und Wirtschaftsbedingungen von Vereinigungen im Sinne des Satzes 1 geführt werden.  
 
 ### Artikel 10
 
-Das Briefgeheimnis sowie das Post- und Fernmeldegeheimnis sind unverletzlich. Beschränkungen dürfen nur auf Grund eines Gesetzes angeordnet werden.  
+**(1)** Das Briefgeheimnis sowie das Post- und Fernmeldegeheimnis sind unverletzlich.  
+**(2)** Beschränkungen dürfen nur auf Grund eines Gesetzes angeordnet werden. Dient die Beschränkung dem Schutze der freiheitlichen demokratischen Grundordnung oder des Bestandes oder der Sicherung des Bundes oder eines Landes, so kann das Gesetz bestimmen, daß sie dem Betroffenen nicht mitgeteilt wird und daß an die Stelle des Rechtsweges die Nachprüfung durch von der Volksvertretung bestellte Organe und Hilfsorgane tritt.  
 
 ### Artikel 11
 
 **(1)** Alle Deutschen genießen Freizügigkeit im ganzen Bundesgebiet.  
-**(2)** Dieses Recht darf nur durch Gesetz oder auf Grund eines Gesetzes und nur für die Fälle eingeschränkt werden, in denen eine ausreichende Lebensgrundlage nicht vorhanden ist und der Allgemeinheit daraus besondere Lasten entstehen würden und in denen es zum Schutze der Jugend vor Verwahrlosung, zur Bekämpfung von Seuchengefahr oder um strafbaren Handlungen vorzubeugen, erforderlich ist.  
+**(2)** Dieses Recht darf nur durch Gesetz oder auf Grund eines Gesetzes und nur für die Fälle eingeschränkt werden, in denen eine ausreichende Lebensgrundlage nicht vorhanden ist und der Allgemeinheit daraus besondere Lasten entstehen würden oder in denen es zur Abwehr einer drohenden Gefahr für den Bestand oder die freiheitliche demokratische Grundordnung des Bundes oder eines Landes, zur Bekämpfung von Seuchengefahr, Naturkatastrophen oder besonders schweren Unglücksfällen, zum Schutze der Jugend vor Verwahrlosung oder um strafbaren Handlungen vorzubeugen, erforderlich ist.  
 
 ### Artikel 12
 
-**(1)** Alle Deutschen haben das Recht, Beruf, Arbeitsplatz und Ausbildungsstätte frei zu wählen. Die Berufsausübung kann durch Gesetz geregelt werden.  
-**(2)** Niemand darf zu einer bestimmten Arbeit gezwungen werden, außer im Rahmen einer herkömmlichen allgemeinen, für alle gleichen öffentlichen Dienstleistungspflicht. Wer aus Gewissensgründen den Kriegsdienst mit der Waffe verweigert, kann zu einem Ersatzdienst verpflichtet werden. Die Dauer des Ersatzdienstes darf die Dauer des Wehrdienstes nicht übersteigen. Das Nähere regelt ein Gesetz, das die Freiheit der Gewissensentscheidung nicht beeinträchtigen darf und auch eine Möglichkeit des Ersatzdienstes vorsehen muß, die in keinem Zusammenhang mit den Verbänden der Streitkräfte steht.  
-**(3)** Frauen dürfen nicht zu einer Dienstleistung im Verband der Streitkräfte durch Gesetz verpflichtet werden. Zu einem Dienst mit der Waffe dürfen sie in keinem Falle verwendet werden.  
-**(4)** Zwangsarbeit ist nur bei einer gerichtlich angeordneten Freiheitsentziehung zulässig.  
+**(1)** Alle Deutschen haben das Recht, Beruf, Arbeitsplatz und Ausbildungsstätte frei zu wählen. Die Berufsausübung kann durch Gesetz oder auf Grund eines Gesetzes geregelt werden.  
+**(2)** Niemand darf zu einer bestimmten Arbeit gezwungen werden, außer im Rahmen einer herkömmlichen allgemeinen, für alle gleichen öffentlichen Dienstleistungspflicht.  
+**(3)** Zwangsarbeit ist nur bei einer gerichtlich angeordneten Freiheitsentziehung zulässig.  
+
+### Artikel 12a
+
+**(1)** Männer können vom vollendeten achtzehnten Lebensjahr an zum Dienst in den Streitkräften, im Bundesgrenzschutz oder in einem Zivilschutzverband verpflichtet werden.  
+**(2)** Wer aus Gewissensgründen den Kriegsdienst mit der Waffe verweigert, kann zu einem Ersatzdienst verpflichtet werden. Die Dauer des Ersatzdienstes darf, die Dauer des Wehrdienstes nicht übersteigen. Das Nähere regelt ein Gesetz, das die Freiheit der Gewissensentscheidung nicht beeinträchtigen darf und auch eine Möglichkeit des Ersatzdienstes vorsehen muß, die in keinem Zusammenhang mit den Verbänden der Streitkräfte und des Bundesgrenzschutzes steht.  
+**(3)** Wehrpflichtige, die nicht zu einem Dienst nach Absatz 1 oder 2 herangezogen sind, können im Verteidigungsfalle durch Gesetz oder auf Grund eines Gesetzes zu zivilen Dienstleistungen für Zwecke der Verteidigung einschließlich des Schutzes der Zivilbevölkerung in Arbeitsverhältnisse verpflichtet werden; Verpflichtungen in öffentlich-rechtliche Dienstverhältnisse sind nur zur Wahrnehmung polizeilicher Aufgaben oder solcher hoheitlichen Aufgaben der öffentlichen Verwaltung, die nur in einem öffentlich-rechtlichen Dienstverhältnis erfüllt werden können, zulässig. Arbeitsverhältnisse nach Satz 1 können bei den Streitkräften, im Bereich ihrer Versorgung sowie bei der öffentlichen Verwaltung begründet werden; Verpflichtungen in Arbeitsverhältnisse im Bereiche der Versorgung der Zivilbevölkerung sind nur zulässig, um ihren lebensnotwendigen Bedarf zu decken oder ihren Schutz sicherzustellen.  
+**(4)** Kann im Verteidigungsfalle der Bedarf an zivilen Dienstleistungen im zivilen Sanitäts- und Heilwesen sowie in der ortsfesten militärischen Lazarettorganisation nicht auf freiwilliger Grundlage gedeckt werden, so können Frauen vom vollendeten achtzehnten bis zum vollendeten fünfundfünfzigsten Lebensjahr durch Gesetz oder auf Grund eines Gesetzes zu derartigen Dienstleistungen herangezogen werden. Sie dürfen auf keinen Fall Dienst mit der Waffe leisten.  
+**(5)** Für die Zeit vor dem Verteidigungsfalle können Verpflichtungen nach Absatz 3 nur nach Maßgabe des Artikels 80 a Abs. 1 begründet werden. Zur Vorbereitung auf Dienstleistungen nach Absatz 3, für die besondere Kenntnisse oder Fertigkeiten erforderlich sind, kann durch Gesetz oder auf Grund eines Gesetzes die Teilnahme an Ausbildungsveranstaltungen zur Pflicht gemacht werden. Satz 1 findet insoweit keine Anwendung.  
+**(6)** Kann im Verteidigungsfalle der Bedarf an Arbeitskräften für die in Absatz 3 Satz 2 genannten Bereiche auf freiwilliger Grundlage nicht gedeckt werden, so kann zur Sicherung dieses Bedarfs die Freiheit der Deutschen, die Ausübung eines Berufs oder den Arbeitsplatz aufzugeben, durch Gesetz oder auf Grund eines Gesetzes eingeschränkt werden. Vor Eintritt des Verteidigungsfalles gilt Absatz 5 Satz 1 entsprechend.  
 
 ### Artikel 13
 
@@ -128,7 +137,7 @@ Wer die Freiheit der Meinungsäußerung, insbesondere die Pressefreiheit (Artike
 **(1)** Soweit nach diesem Grundgesetz ein Grundrecht durch Gesetz oder auf Grund eines Gesetzes eingeschränkt werden kann, muß das Gesetz allgemein und nicht nur für den Einzelfall gelten. Außerdem muß das Gesetz das Grundrecht unter Angabe des Artikels nennen.  
 **(2)** In keinem Falle darf ein Grundrecht in seinem Wesensgehalt angetastet werden.  
 **(3)** Die Grundrechte gelten auch für inländische juristische Personen, soweit sie ihrem Wesen nach auf diese anwendbar sind.  
-**(4)** Wird jemand durch die öffentliche Gewalt in seinen Rechten verletzt, so steht ihm der Rechtsweg offen. Soweit eine andere Zuständigkeit nicht begründet ist, ist der ordentliche Rechtsweg gegeben.  
+**(4)** Wird jemand durch die öffentliche Gewalt in seinen Rechten verletzt, so steht ihm der Rechtsweg offen. Soweit eine andere Zuständigkeit nicht begründet ist, ist der ordentliche Rechtsweg gegeben. Artikel 10 Abs. 2 Satz 2 bleibt unberührt.  
 
 ## II. Der Bund und die Länder
 
@@ -137,6 +146,7 @@ Wer die Freiheit der Meinungsäußerung, insbesondere die Pressefreiheit (Artike
 **(1)** Die Bundesrepublik Deutschland ist ein demokratischer und sozialer Bundesstaat.  
 **(2)** Alle Staatsgewalt geht vom Volke aus. Sie wird vom Volke in Wahlen und Abstimmungen und durch besondere Organe der Gesetzgebung, der vollziehenden Gewalt und der Rechtsprechung ausgeübt.  
 **(3)** Die Gesetzgebung ist an die verfassungsmäßige Ordnung, die vollziehende Gewalt und die Rechtsprechung sind an Gesetz und Recht gebunden.  
+**(4)** Gegen jeden, der es unternimmt, diese Ordnung zu beseitigen, haben alle Deutschen das Recht zum Widerstand, wenn andere Abhilfe nicht möglich ist.  
 
 ### Artikel 21
 
@@ -215,7 +225,9 @@ Verletzt jemand in Ausübung eines ihm anvertrauten öffentlichen Amtes die ihm 
 
 ### Artikel 35
 
-Alle Behörden des Bundes und der Länder leisten sich gegenseitig Rechts- und Amtshilfe.  
+**(1)** Alle Behörden des Bundes und der Länder leisten sich gegenseitig Rechts- und Amtshilfe.  
+**(2)** Zur Hilfe bei einer Naturkatastrophe oder bei einem besonders schweren Unglücksfall kann ein Land Polizeikräfte anderer Länder, Kräfte und Einrichtungen anderer Verwaltungen sowie des Bundesgrenzschutzes und der Streitkräfte anfordern.  
+**(3)** Gefährdet die Naturkatastrophe oder der Unglücksfall das Gebiet mehr als eines Landes, so kann die Bundesregierung, soweit es zur wirksamen Bekämpfung erforderlich ist, den Landesregierungen die Weisung erteilen, Polizeikräfte anderen Ländern zur Verfügung zu stellen, sowie Einheiten des Bundesgrenzschutzes und der Streitkräfte zur Unterstützung der Polizeikräfte einsetzen. Maßnahmen der Bundesregierung nach Satz 1 sind jederzeit auf Verlangen des Bundesrates, im übrigen unverzüglich nach Beseitigung der Gefahr aufzuheben.  
 
 ### Artikel 36
 
@@ -329,6 +341,13 @@ Durch den Bundesrat wirken die Länder bei der Gesetzgebung und Verwaltung des B
 
 Die Mitglieder der Bundesregierung haben das Recht und auf Verlangen die Pflicht, an den Verhandlungen des Bundesrates und seiner Ausschüsse teilzunehmen. Sie müssen jederzeit gehört werden. Der Bundesrat ist von der Bundesregierung über die Führung der Geschäfte auf dem laufenden zu halten.  
 
+## IV a. Gemeinsamer Ausschuß
+
+### Artikel 53a
+
+**(1)** Der Gemeinsame Ausschuß besteht zu zwei Dritteln aus Abgeordneten des Bundestages, zu einem Drittel aus Mitgliedern des Bundesrates. Die Abgeordneten werden vom Bundestage entsprechend dem Stärkeverhältnis der Fraktionen bestimmt; sie dürfen nicht der Bundesregierung angehören. Jedes Land wird durch ein von ihm bestelltes Mitglied des Bundesrates vertreten; diese Mitglieder sind nicht an Weisungen gebunden. Die Bildung des Gemeinsamen Ausschusses und sein Verfahren werden durch eine Geschäftsordnung geregelt, die vom Bundestage zu beschließen ist und der Zustimmung des Bundesrates bedarf.
+**(2)** Die Bundesregierung hat den Gemeinsamen Ausschuß über ihre Planungen für den Verteidigungsfall zu unterrichten. Die Rechte des Bundestages und seiner Ausschüsse nach Artikel 43 Abs. 1 bleiben unberührt.
+
 ## V. Der Bundespräsident
 
 ### Artikel 54
@@ -364,13 +383,6 @@ Anordnungen und Verfügungen des Bundespräsidenten bedürfen zu ihrer Gültigke
 
 **(1)** Der Bundespräsident vertritt den Bund völkerrechtlich. Er schließt im Namen des Bundes die Verträge mit auswärtigen Staaten. Er beglaubigt und empfängt die Gesandten.  
 **(2)** Verträge, welche die politischen Beziehungen des Bundes regeln oder sich auf Gegenstände der Bundesgesetzgebung beziehen, bedürfen der Zustimmung oder der Mitwirkung der jeweils für die Bundesgesetzgebung zuständigen Körperschaften in der Form eines Bundesgesetzes. Für Verwaltungsabkommen gelten die Vorschriften über die Bundesverwaltung entsprechend.  
-
-### Artikel 59a
-
-**(1)** Die Feststellung, daß der Verteidigungsfall eingetreten ist, trifft der Bundestag. Sein Beschluß wird vom Bundespräsidenten verkündet.  
-**(2)** Stehen dem Zusammentritt des Bundestages unüberwindliche Hindernisse entgegen, so kann bei Gefahr im Verzug der Bundespräsident mit Gegenzeichnung des Bundeskanzlers diese Feststellung treffen und verkünden. Der Bundespräsident soll zuvor die Präsidenten des Bundestages und des Bundesrates hören.  
-**(3)** Der Bundespräsident darf völkerrechtliche Erklärungen über das Bestehen des Verteidigungsfalles erst nach Verkündung abgeben.  
-**(4)** Über den Friedensschluß wird durch Bundesgesetz entschieden.  
 
 ### Artikel 60
 
@@ -409,7 +421,7 @@ Der Bundeskanzler bestimmt die Richtlinien der Politik und trägt dafür die Ver
 ### Artikel 65a
 
 **(1)** Der Bundesminister für Verteidigung hat die Befehls- und Kommandogewalt über die Streitkräfte.  
-**(2)** Mit der Verkündung des Verteidigungsfalles geht die Befehls- und Kommandogewalt auf den Bundeskanzler über.  
+**(2)** (weggefallen)  
 
 ### Artikel 66
 
@@ -453,7 +465,7 @@ Im Bereiche der ausschließlichen Gesetzgebung des Bundes haben die Länder die 
 ### Artikel 73
 
 Der Bund hat die ausschließliche Gesetzgebung über:  
-1. die auswärtigen Angelegenheiten sowie die Verteidigung einschließlich der Wehrpflicht für Männer vom vollendeten achtzehnten Lebensjahr an und des Schutzes der Zivilbevölkerung;  
+1. die auswärtigen Angelegenheiten sowie die Verteidigung einschließlich des Schutzes der Zivilbevölkerung;  
 2. die Staatsangehörigkeit im Bunde;  
 3. die Freizügigkeit, das Paßwesen, die Ein- und Auswanderung und die Auslieferung;  
 4. das Währungs-, Geld- und Münzwesen, Maße und Gewichte sowie die Zeitbestimmung;  
@@ -531,6 +543,12 @@ Ein vom Bundestage beschlossenes Gesetz kommt zustande, wenn der Bundesrat zusti
 **(1)** Durch Gesetz können die Bundesregierung, ein Bundesminister oder die Landesregierungen ermächtigt werden, Rechtsverordnungen zu erlassen. Dabei müssen Inhalt, Zweck und Ausmaß der erteilten Ermächtigung im Gesetze bestimmt werden. Die Rechtsgrundlage ist in der Verordnung anzugeben. Ist durch Gesetz vorgesehen, daß eine Ermächtigung weiter übertragen werden kann, so bedarf es zur Übertragung der Ermächtigung einer Rechtsverordnung.  
 **(2)** Der Zustimmung des Bundesrates bedürfen, vorbehaltlich anderweitiger bundesgesetzlicher Regelung, Rechtsverordnungen der Bundesregierung oder eines Bundesministers über Grundsätze und Gebühren für die Benutzung der Einrichtungen der Bundeseisenbahnen und des Post- und Fernmeldewesens, über den Bau und Betrieb der Eisenbahnen, sowie Rechtsverordnungen auf Grund von Bundesgesetzen, die der Zustimmung des Bundesrates bedürfen oder die von den Ländern im Auftrage des Bundes oder als eigene Angelegenheit ausgeführt werden.  
 
+### Artikel 80a
+
+**(1)** Ist in diesem Grundgesetz oder in einem Bundesgesetz über die Verteidigung einschließlich des Schutzes der Zivilbevölkerung bestimmt, daß Rechtsvorschriften nur nach Maßgabe dieses Artikels angewandt werden dürfen, so ist die Anwendung außer im Verteidigungsfalle nur zulässig, wenn der Bundestag den Eintritt des Spannungsfalles festgestellt oder wenn er der Anwendung besonders zugestimmt hat. Die Feststellung des Spannungsfalles und die besondere Zustimmung in den Fällen des Artikels 12 a Abs. 5 Satz 1 und Abs. 6 Satz 2 bedürfen einer Mehrheit von zwei Dritteln der abgegebenen Stimmen.  
+**(2)** Maßnahmen auf Grund von Rechtsvorschriften nach Absatz 1 sind aufzuheben, wenn der Bundestag es verlangt.  
+**(3)** Abweichend von Absatz 1 ist die Anwendung solcher Rechtsvorschriften auch auf der Grundlage und nach Maßgabe eines Beschlusses zulässig, der von einem internationalen Organ im Rahmen eines Bündnisvertrages mit Zustimmung der Bundesregierung gefaßt wird. Maßnahmen nach diesem Absatz sind aufzuheben, wenn der Bundestag es mit der Mehrheit seiner Mitglieder verlangt.  
+
 ### Artikel 81
 
 **(1)** Wird im Falle des Artikels 68 der Bundestag nicht aufgelöst, so kann der Bundespräsident auf Antrag der Bundesregierung mit Zustimmung des Bundesrates für eine Gesetzesvorlage den Gesetzgebungsnotstand erklären, wenn der Bundestag sie ablehnt, obwohl die Bundesregierung sie als dringlich bezeichnet hat. Das gleiche gilt, wenn eine Gesetzesvorlage abgelehnt worden ist, obwohl der Bundeskanzler mit ihr den Antrag des Artikels 68 verbunden hatte.  
@@ -576,7 +594,10 @@ Führt der Bund die Gesetze durch bundeseigene Verwaltung oder durch bundesunmit
 
 ### Artikel 87a
 
-Die zahlenmäßige Stärke der vom Bunde zur Verteidigung aufgestellten Streitkräfte und die Grundzüge ihrer Organisation müssen sich aus dem Haushaltsplan ergeben.  
+**(1)** Der Bund stellt Streitkräfte zur Verteidigung auf. Ihre zahlenmäßige Stärke und die Grundzüge ihrer Organisation müssen sich aus dem Haushaltsplan ergeben.  
+**(2)** Außer zur Verteidigung dürfen die Streitkräfte nur eingesetzt werden, soweit dieses Grundgesetz es ausdrücklich zuläßt.  
+**(3)** Die Streitkräfte haben im Verteidigungsfalle und im Spannungsfalle die Befugnis, zivile Objekte zu schützen und Aufgaben der Verkehrsregelung wahrzunehmen, soweit dies zur Erfüllung ihres Verteidigungsauftrages erforderlich ist. Außerdem kann den Streitkräften im Verteidigungsfalle und im Spannungsfalle der Schutz ziviler Objekte auch zur Unterstützung polizeilicher Maßnahmen übertragen werden; die Streitkräfte wirken dabei mit den zuständigen Behörden zusammen.  
+**(4)** Zur Abwehr einer drohenden Gefahr für den Bestand oder die freiheitliche demokratische Grundordnung des Bundes oder eines Landes kann die Bundesregierung, wenn die Voraussetzungen des Artikels 91 Abs. 2 vorliegen und die Polizeikräfte sowie der Bundesgrenzschutz nicht ausreichen, Streitkräfte zur Unterstützung der Polizei und des Bundesgrenzschutzes beim Schutze von zivilen Objekten und bei der Bekämpfung organisierter und militärisch bewaffneter Aufständischer einsetzen. Der Einsatz von Streitkräften ist einzustellen, wenn der Bundestag oder der Bundesrat es verlangen.  
 
 ### Artikel 87b
 
@@ -610,9 +631,8 @@ Der Bund errichtet eine Währungs- und Notenbank als Bundesbank.
 
 ### Artikel 91
 
-**(1)** Zur Abwehr einer drohenden Gefahr für den Bestand oder die freiheitliche demokratische Grundordnung des Bundes oder eines Landes kann ein Land Polizeikräfte anderer Länder anfordern.  
-**(2)** Ist das Land, in dem die Gefahr droht, nicht selbst zur Bekämpfung der Gefahr bereit oder in der Lage, so kann die Bundesregierung die Polizei in diesem Lande und die Polizeikräfte anderer Länder ihren Weisungen unterstellen. Die Anordnung ist nach Beseitigung der Gefahr, im übrigen jederzeit auf Verlangen des Bundesrates aufzuheben.  
-
+**(1)** Zur Abwehr einer drohenden Gefahr für den Bestand oder die freiheitliche demokratische Grundordnung des Bundes oder eines Landes kann ein Land Polizeikräfte anderer Länder sowie Kräfte und Einrichtungen anderer Verwaltungen und des Bundesgrenzschutzes anfordern.  
+**(2)** Ist das Land, in dem die Gefahr droht, nicht selbst zur Bekämpfung der Gefahr bereit oder in der Lage, so kann die Bundesregierung die Polizei in diesem Lande und die Polizeikräfte anderer Länder ihren Weisungen unterstellen sowie Einheiten des Bundesgrenzschutzes einsetzen. Die Anordnung ist nach Beseitigung der Gefahr, im übrigen jederzeit auf Verlangen des Bundesrates aufzuheben. Erstreckt sich die Gefahr auf das Gebiet mehr als eines Landes, so kann die Bundesregierung, soweit es zur wirksamen Bekämpfung erforderlich ist, den Landesregierungen Weisungen erteilen; Satz 1 und Satz 2 bleiben unberührt.  
 
 ## IX. Die Rechtsprechung
 
@@ -791,6 +811,76 @@ Beschlüsse des Bundestages und des Bundesrates, welche die von der Bundesregier
 
 Im Wege des Kredites dürfen Geldmittel nur bei außerordentlichem Bedarf und in der Regel nur für Ausgaben zu werbenden Zwecken und nur auf Grund eines Bundesgesetzes beschafft werden. Kreditgewährungen und Sicherheitsleistungen zu Lasten des Bundes, deren Wirkung über eine Rechnungsjahr hinausgeht, dürfen nur auf Grund eines Bundesgesetzes erfolgen. In dem Gesetze muß die Höhe des Kredites oder der Umfang der Verpflichtung, für die der Bund die Haftung übernimmt, bestimmt sein.  
 
+## X a. Verteidigungsfall
+
+### Artikel 115a
+
+**(1)** Die Feststellung, daß das Bundesgebiet mit Waffengewalt angegriffen wird oder ein solcher Angriff unmittelbar droht (Verteidigungsfall), trifft der Bundestag mit Zustimmung des Bundesrates. Die Feststellung erfolgt auf Antrag der Bundesregierung und bedarf einer Mehrheit von zwei Dritteln der abgegebenen Stimmen, mindestens der Mehrheit der Mitglieder des Bundestages.  
+**(2)** Erfordert die Lage unabweisbar ein sofortiges Handeln und stehen einem rechtzeitigen Zusammentritt des Bundestages unüberwindliche Hindernisse entgegen oder ist er nicht beschlußfähig, so trifft der Gemeinsame Ausschuß diese Feststellung mit einer Mehrheit von zwei Dritteln der abgegebenen Stimmen, mindestens der Mehrheit seiner Mitglieder.  
+**(3)** Die Feststellung wird vom Bundespräsidenten gemäß Artikel 82 im Bundesgesetzblatte verkündet. Ist dies nicht rechtzeitig möglich, so erfolgt die Verkündung in anderer Weise; sie ist im Bundesgesetzblatte nachzuholen, sobald die Umstände es zulassen.  
+**(4)** Wird das Bundesgebiet mit Waffengewalt angegriffen und sind die zuständigen Bundesorgane außerstande, sofort die Feststellung nach Absatz 1 Satz 1 zu treffen, so gilt diese Feststellung als getroffen und als zu dein Zeitpunkt verkündet, in dem der Angriff begonnen hat. Der Bundespräsident gibt diesen Zeitpunkt bekannt, sobald die Umstände es zulassen.  
+**(5)** Ist die Feststellung des Verteidigungsfalles verkündet und wird das Bundesgebiet mit Waffengewalt angegriffen, so kann der Bundespräsident völkerrechtliche Erklärungen über das Bestehen des Verteidigungsfalles mit Zustimmung des Bundestages abgeben. Unter den Voraussetzungen des Absatzes 2 tritt an die Stelle des Bundestages der Gemeinsame Ausschuß.  
+
+### Artikel 115b
+
+Mit der Verkündung des Verteidigungsfalles geht die Befehls- und Kommandogewalt über die Streitkräfte auf den Bundeskanzler über.  
+
+### Artikel 115c
+
+**(1)** Der Bund hat für den Verteidigungsfall das Recht der konkurrierenden Gesetzgebung auch auf den Sachgebieten, die zur Gesetzgebungszuständigkeit der Länder gehören. Diese Gesetze bedürfen der Zustimmung des Bundesrates.  
+**(2)** Soweit es die Verhältnisse während des Verteidigungsfalles erfordern, kann durch Bundesgesetz für den Verteidigungsfall  
+1. bei Enteignungen abweichend von Artikel 14 Abs. 3 Satz 2 die Entschädigung vorläufig geregelt werden,  
+2. für Freiheitsentziehungen eine von Artikel 104 Abs. 2 Satz 3 und Abs. 3 Satz 1 abweichende Frist, höchstens jedoch eine solche von vier Tagen, für den Fall festgesetzt werden, daß ein Richter nicht innerhalb der für Normalzeiten geltenden Frist tätig werden konnte.  
+
+**(3)** Soweit es zur Abwehr eines gegenwärtigen oder unmittelbar drohenden Angriffs erforderlich ist, kann für den Verteidigungsfall durch Bundesgesetz mit Zustimmung des Bundesrates die Verwaltung und das Finanzwesen des Bundes und der Länder abweichend von Abschnitt VIII und den Artikeln 106 bis 115 geregelt werden, wobei die Lebensfähigkeit der Länder, Gemeinden und Gemeindeverbände, insbesondere auch in finanzieller Hinsicht, zu wahren ist.  
+**(4)** Bundesgesetze nach den Absätzen 1 und 2 Nr. 1 dürfen zur Vorbereitung ihres Vollzuges schon vor Eintritt des Verteidigungsfalles angewandt werden.  
+
+### Artikel 115d
+
+**(1)** Für die Gesetzgebung des Bundes gilt im Verteidigungsfalle abweichend von Artikel 76 Abs. 2, Artikel 77 Abs. 1 Satz 2 und Abs. 2 bis 4, Artikel 78 und Artikel 82 Abs. 1 die Regelung der Absätze 2 und 3.  
+**(2)** Gesetzesvorlagen der Bundesregierung, die sie als dringlich bezeichnet, sind gleichzeitig mit der Einbringung beim Bundestage dem Bundesrate zuzuleiten. Bundestag und Bundesrat beraten diese Vorlagen unverzüglich gemeinsam. Soweit zu einem Gesetze die Zustimmung des Bundesrates erforderlich ist, bedarf es zum Zustandekommen des Gesetzes der Zustimmung der Mehrheit seiner Stimmen. Das Nähere regelt eine Geschäftsordnung, die vom Bundestage beschlossen wird und der Zustimmung des Bundesrates bedarf.  
+**(3)** Für die Verkündung der Gesetze gilt Artikel 115 a Abs. 3 Satz 2 entsprechend.  
+
+### Artikel 115e
+
+**(1)** Stellt der Gemeinsame Ausschuß im Verteidigungsfalle mit einer Mehrheit von zwei Dritteln der abgegebenen Stimmen, mindestens mit der Mehrheit seiner Mitglieder fest, daß dem rechtzeitigen Zusammentritt des Bundestages unüberwindliche Hindernisse entgegenstehen oder daß dieser nicht beschlußfähig ist, so hat der Gemeinsame Ausschuß die Stellung von Bundestag und Bundesrat und nimmt deren Rechte einheitlich wahr.  
+**(2)** Durch ein Gesetz des Gemeinsamen Ausschusses darf das Grundgesetz weder geändert noch ganz oder teilweise außer Kraft oder außer Anwendung gesetzt werden. Zum Erlaß von Gesetzen nach Artikel 24 Abs. 1 und Artikel 29 ist der Gemeinsame Ausschuß nicht befugt.  
+
+### Artikel 115f
+
+**(1)** Die Bundesregierung kann im Verteidigungsfalle, soweit es die Verhältnisse erfordern,  
+1. den Bundesgrenzschutz im gesamten Bundesgebiete einsetzen;  
+2. außer der Bundesverwaltung auch den Landesregierungen und, wenn sie es für dringlich erachtet, den Landesbehörden Weisungen erteilen und diese Befugnis auf von ihr zu bestimmende Mitglieder der Landesregierungen übertragen.  
+
+**(2)** Bundestag, Bundesrat und der Gemeinsame Ausschuß sind unverzüglich von den nach Absatz 1 getroffenen Maßnahmen zu unterrichten.  
+
+### Artikel 115g
+
+Die verfassungsmäßige Stellung und die Erfüllung der verfassungsmäßigen Aufgaben des Bundesverfassungsgerichtes und seiner Richter dürfen nicht beeinträchtigt werden. Das Gesetz über das Bundesverfassungsgericht darf durch ein Gesetz des Gemeinsamen Ausschusses nur insoweit geändert werden, als dies auch nach Auffassung des Bundesverfassungsgerichtes zur Aufrechterhaltung der Funktionsfähigkeit des Gerichtes erforderlich ist. Bis zum Erlaß eines solchen Gesetzes kann das Bundesverfassungsgericht die zur Erhaltung der Arbeitsfähigkeit des Gerichtes erforderlichen Maßnahmen treffen. Beschlüsse nach Satz 2 und Satz 3 faßt das Bundesverfassungsgericht mit der Mehrheit der anwesenden Richter.  
+
+### Artikel 115h
+
+**(1)** Während des Verteidigungsfalles ablaufende Wahlperioden des Bundestages oder der Volksvertretungen der Länder enden sechs Monate nach Beendigung des Verteidigungsfalles. Die im Verteidigungsfalle ablaufende Amtszeit des Bundespräsidenten sowie bei vorzeitiger Erledigung seines Amtes die Wahrnehmung seiner Befugnisse durch den Präsidenten des Bundesrates enden neun Monate nach Beendigung des Verteidigungsfalles. Die im Verteidigungsfalle ablaufende Amtszeit eines Mitgliedes des Bundesverfassungsgerichtes endet sechs Monate nach Beendigung des Verteidigungsfalles.  
+**(2)** Wird eine Neuwahl des Bundeskanzlers durch den Gemeinsamen Ausschuß erforderlich, so wählt dieser einen neuen Bundeskanzler mit der Mehrheit seiner Mitglieder; der Bundespräsident macht dem Gemeinsamen Ausschuß einen Vorschlag. Der Gemeinsame Ausschuß kann dem Bundeskanzler das Mißtrauen nur dadurch aussprechen, daß er mit der Mehrheit von zwei Dritteln seiner Mitglieder einen Nachfolger wählt.  
+**(3)** Für die Dauer des Verteidigungsfalles ist die Auflösung des Bundestages ausgeschlossen.  
+
+### Artikel 115i
+
+**(1)** Sind die zuständigen Bundesorgane außerstande, die notwendigen Maßnahmen zur Abwehr der Gefahr zu treffen, und erfordert die Lage unabweisbar ein sofortiges selbständiges Handeln in einzelnen Teilen des Bundesgebietes, so sind die Landesregierungen oder die von ihnen bestimmten Behörden oder Beauftragten befugt, für ihren Zuständigkeitsbereich Maßnahmen im Sinne des Artikels 115 f Abs. 1 zu treffen.  
+**(2)** Maßnahmen nach Absatz 1 können durch die Bundesregierung, im Verhältnis zu Landesbehörden und nachgeordneten Bundesbehörden auch durch die Ministerpräsidenten der Länder, jederzeit aufgehoben werden.  
+
+### Artikel 115k
+
+**(1)** Für die Dauer ihrer Anwendbarkeit setzen Gesetze nach den Artikeln 115 c, 115 e und 115 g und Rechtsverordnungen, die auf Grund solcher Gesetze ergehen, entgegenstehendes Recht außer Anwendung. Dies gilt nicht gegenüber früherem Recht, das auf Grund der Artikel 115 c, 115 e und 115 g erlassen worden ist.  
+**(2)** Gesetze, die der Gemeinsame Ausschuß beschlossen hat, und Rechtsverordnungen, die auf Grund solcher Gesetze ergangen sind, treten spätestens sechs Monate nach Beendigung des Verteidigungsfalles außer Kraft.  
+**(3)** Gesetze, die von Artikel 106 und 107 abweichende Regelungen enthalten, gelten längstens bis zum Ende des zweiten Rechnungsjahres, das auf die Beendigung des Verteidigungsfalles folgt. Sie können nach Beendigung des Verteidigungsfalles durch Bundesgesetz mit Zustimmung des Bundesrates geändert werden, um zu der Regelung gemäß Abschnitt X überzuleiten.  
+
+### Artikel 115l
+
+**(1)** Der Bundestag kann jederzeit mit Zustimmung des Bundesrates Gesetze des Gemeinsamen Ausschusses aufheben. Der Bundesrat kann verlangen, daß der Bundestag hierüber beschließt. Sonstige zur Abwehr der Gefahr getroffene Maßnahmen des Gemeinsamen Ausschusses oder der Bundesregierung sind aufzuheben, wenn der Bundestag und der Bundesrat es beschließen.  
+**(2)** Der Bundestag kann mit Zustimmung des Bundesrates jederzeit durch einen vom Bundespräsidenten zu verkündenden Beschluß den Verteidigungsfall für beendet erklären. Der Bundesrat kann verlangen, daß der Bundestag hierüber beschließt. Der Verteidigungsfall ist unverzüglich für beendet zu erklären, wenn die Voraussetzungen für seine Feststellung nicht mehr gegeben sind.  
+**(3)** Über den Friedensschluß wird durch Bundesgesetz entschieden.  
+
 ## XI. Übergangs- und Schlußbestimmungen
 
 ### Artikel 116
@@ -940,13 +1030,9 @@ Artikel 7 Absatz 3 Satz 1 findet keine Anwendung in einem Lande, in dem am 1. Ja
 
 Ungeachtet der Vorschrift des Artikels 31 bleiben Bestimmungen der Landesverfassungen auch insoweit in Kraft, als sie in Übereinstimmung mit den Artikeln 1 bis 18 dieses Grundgesetzes Grundrechte gewährleisten.  
 
-### Artikel 142a
-
-Die Bestimmungen dieses Grundgesetzes stehen dem Abschluß und dem Inkraftsetzen der am 26. und 27. Mai 1952 in Bonn und Paris unterzeichneten Verträge (Vertrag über die Beziehungen der Bundesrepublik Deutschland und den Drei Mächten und Vertrag über die Gründung der Europäischen Verteidigungsgemeinschaft) mit ihren Zusatz- und Nebenabkommen, insbesondere dem Protokoll vom 26. Juli 1952, nicht entgegen.  
-
 ### Artikel 143
 
-Die Voraussetzungen, unter denen es zulässig wird, die Streitkräfte im Falle eines inneren Notstandes in Anspruch zu nehmen, können nur durch ein Gesetz geregelt werden, das die Erfordernisse des Artikels 79 erfüllt.  
+(weggefallen)
 
 ### Artikel 144
 
