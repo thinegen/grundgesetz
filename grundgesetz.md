@@ -479,6 +479,7 @@ Die konkurrierende Gesetzgebung erstreckt sich auf folgende Gebiete:
 9. die Kriegsschäden und die Wiedergutmachung;  
 10. die Versorgung der Kriegsbeschädigten und Kriegshinterbliebenen, die Fürsorge für die ehemaligen Kriegsgefangenen und die Sorge für die Kriegsgräber;  
 11. das Recht der Wirtschaft (Bergbau, Industrie, Energiewirtschaft, Handwerk, Gewerbe, Handel, Bank- und Börsenwesen, privatrechtliches Versicherungswesen);  
+11a. die Erzugung und Nutzung der Kernenergie zu friedlichen Zwecken, die Errichtung und den Betrieb von Anlagen, die diesem Zweck dienen, den Schutz gegen Gefahren, die bei Freiwerden von Kernenergie oder durch ionisierende Strahlen entstehen und die Beseitigung radioaktiver Stoffe;  
 12. das Arbeitsrecht einschließlich der Betriebsverfassung, des Arbeitsschutzes und der Arbeitsvermittlung sowie die Sozialversicherung einschließlich der Arbeitslosenversicherung;  
 13. Förderung der wissenschaftlichen Forschung;  
 14. das Recht der Enteignung, soweit sie auf den Sachgebieten der Artikel 73 und 74 in Betracht kommt;  
@@ -580,6 +581,10 @@ Die zahlenmäßige Stärke der vom Bunde zur Verteidigung aufgestellten Streitkr
 
 **(1)** Die Bundeswehrverwaltung wird in bundeseigener Verwaltung mit eigenem Verwaltungsunterbau geführt. Sie dient den Aufgaben des Personalwesens und der unmittelbaren Deckung des Sachbedarfs der Streitkräfte. Aufgaben der Beschädigtenversorgung und des Bauwesens können der Bundeswehrverwaltung nur durch Bundesgesetz, das der Zustimmung des Bundesrates bedarf, übertragen werden. Der Zustimmung des Bundesrates bedürfen ferner Gesetze, soweit sie die Bundeswehrverwaltung zu Eingriffen in Rechte Dritter ermächtigen; das gilt nicht für Gesetze auf dem Gebiete des Personalwesens.  
 **(2)** Im übrigen können Bundesgesetze, die der Verteidigung einschließlich des Wehrersatzwesens und des Schutzes der Zivilbevölkerung dienen, mit Zustimmung des Bundesrates bestimmen, daß sie ganz oder teilweise in bundeseigener Verwaltung mit eigenem Verwaltungsunterbau oder von den Ländern im Auftrage des Bundes ausgeführt werden. Werden solche Gesetze von den Ländern im Auftrage des Bundes ausgeführt, so können sie mit Zustimmung des Bundesrates bestimmen, daß die der Bundesregierung und den zuständigen obersten Bundesbehörden auf Grund des Artikels 85 zustehenden Befugnisse ganz oder teilweise Bundesoberbehörden übertragen werden; dabei kann bestimmt werden, daß diese Behörden beim Erlaß allgemeiner Verwaltungsvorschriften gemäß Artikel 85 Abs. 2 Satz 1 nicht der Zustimmung des Bundesrates bedürfen.  
+
+### Artikel 87c
+
+Gesetze die aufgrund des Artikels 74 Nr. 11a ergehen, können mit Zustimmung des Bundesrates bestimmen, daß sie von den Ländern im Auftrag des Bundes ausgeführt werden.  
 
 ### Artikel 88
 
