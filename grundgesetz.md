@@ -647,13 +647,15 @@ Die rechtsprechende Gewalt ist den Richtern anvertraut; sie wird durch das Bunde
 2. bei Meinungsverschiedenheiten oder Zweifeln über die förmliche und sachliche Vereinbarkeit von Bundesrecht oder Landesrecht mit diesem Grundgesetze oder die Vereinbarkeit von Landesrecht mit sonstigem Bundesrechte auf Antrag der Bundesregierung, einer Landesregierung oder eines Drittels der Mitglieder des Bundestages;  
 3. bei Meinungsverschiedenheiten über Rechte und Pflichten des Bundes und der Länder, insbesondere bei der Ausführung von Bundesrecht durch die Länder und bei der Ausübung der Bundesaufsicht;  
 4. in anderen öffentlich-rechtlichen Streitigkeiten zwischen dem Bunde und den Ländern, zwischen verschiedenen Ländern oder innerhalb eines Landes, soweit nicht ein anderer Rechtsweg gegeben ist;  
+4a. über Verfassungsbeschwerden, die von jedermann mit der Behauptung erhoben werden können, durch die öffentliche Gewalt in einem seiner Grundrechte oder in einem seiner in Artikel 20 Abs. 4, 33, 38, 101, 103 und 104 enthaltenen Rechte verletzt zu sein;  
+4b. über Verfassungsbeschwerden von Gemeinden und Gemeindeverbänden wegen Verletzung des Rechts auf Selbstverwaltung nach Artikel 28 durch ein Gesetz, bei Landesgesetzen jedoch nur, soweit nicht Beschwerde beim Landesverfassungsgericht erhoben werden kann;  
 5. in den übrigen in diesem Grundgesetze vorgesehenen Fällen.  
 **(2)** Das Bundesverfassungsgericht wird ferner in den ihm sonst durch Bundesgesetz zugewiesenen Fällen tätig.  
 
 ### Artikel 94
 
 **(1)** Das Bundesverfassungsgericht besteht aus Bundesrichtern und anderen Mitgliedern. Die Mitglieder des Bundesverfassungsgerichtes werden je zur Hälfte vom Bundestage und vom Bundesrate gewählt. Sie dürfen weder dem Bundestage, dem Bundesrate, der Bundesregierung noch entsprechenden Organen eines Landes angehören.  
-**(2)** Ein Bundesgesetz regelt seine Verfassung und das Verfahren und bestimmt, in welchen Fällen seine Entscheidungen Gesetzeskraft haben.  
+**(2)** Ein Bundesgesetz regelt seine Verfassung und das Verfahren und bestimmt, in welchen Fällen seine Entscheidungen Gesetzeskraft haben. Es kann für Verfassungsbeschwerden die vorherige Erschöpfung des Rechtsweges zur Voraussetzung machen und ein besonderes Annahmeverfahren vorsehen.  
 
 ### Artikel 95
 
