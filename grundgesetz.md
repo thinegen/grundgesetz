@@ -737,6 +737,11 @@ In Angelegenheiten der Flüchtlinge und Vertriebenen, insbesondere zu ihrer Vert
 **(1)** Der Bund trägt die Aufwendungen für Besatzungskosten und die sonstigen inneren und äußeren Kriegsfolgelasten nach näherer Bestimmung eines Bundesgesetzes und die Zuschüsse zu den Lasten der Sozialversicherung mit Einschluß der Arbeitslosenversicherung und der Arbeitslosenfürsorge.  
 **(2)** Die Einnahmen gehen auf den Bund zu demselben Zeitpunkte über, an dem der Bund die Ausgaben übernimmt.  
 
+### Artikel 120a
+
+**(1)** Die Gesetze, die der Durchführung des Lastenausgleichs dienen, können mit Zustimmung des Bundesrates bestimmen, daß sie auf dem Gebiete der Ausgleichsleistungen teils durch den Bund, teils im Auftrage des Bundes durch die Länder ausgeführt werden und daß die der Bundesregierung und den zuständigen obersten Bundesbehörden auf Grund des Artikels 85 insoweit zustehenden Befugnisse ganz oder teilweise dem Bundesausgleichsamt übertragen werden. Das Bundesausgleichsamt bedarf bei Ausübung dieser Befugnisse nicht der Zustimmung des Bundesrates; seine Weisungen sind, abgesehen von den Fällen der Dringlichkeit, an die obersten Landesbehörden (Landesausgleichsämter) zu richten.  
+**(2)** Artikel 87 Abs. 3 Satz 2 bleibt unberührt.  
+
 ### Artikel 121
 
 Mehrheit der Mitglieder des Bundestages und der Bundesversammlung im Sinne dieses Grundgesetzes ist die Mehrheit ihrer gesetzlichen Mitgliederzahl.  
