@@ -111,7 +111,15 @@ Grund und Boden, Naturschätze und Produktionsmittel können zum Zwecke der Verg
 ### Artikel 16
 
 **(1)** Die deutsche Staatsangehörigkeit darf nicht entzogen werden. Der Verlust der Staatsangehörigkeit darf nur auf Grund eines Gesetzes und gegen den Willen des Betroffenen nur dann eintreten, wenn der Betroffene dadurch nicht staatenlos wird.  
-**(2)** Kein Deutscher darf an das Ausland ausgeliefert werden. Politisch Verfolgte genießen Asylrecht.  
+**(2)** Kein Deutscher darf an das Ausland ausgeliefert werden.  
+
+### Artikel 16a
+
+**(1)** Politisch Verfolgte genießen Asylrecht.  
+**(2)** Auf Absatz 1 kann sich nicht berufen, wer aus einem Mitgliedstaat der Europäischen Gemeinschaften oder aus einem anderen Drittstaat einreist, in dem die Anwendung des Abkommens über die Rechtsstellung der Flüchtlinge und der Konvention zum Schutze der Menschenrechte und Grundfreiheiten sichergestellt ist. Die Staaten außerhalb der europäischen Gemeinschaften, auf die die Voraussetzungen des Satzes 1 zutreffen, werden durch Gesetz, das der Zustimmung des Bundesrates bedarf, bestimmt. In den Fällen des Satzes 1 können aufenthaltsbeendende Maßnahmen unabhängig von einem hiergegen eingelegten Rechtsbehelf vollzogen werden.  
+**(3)** Durch Gesetz, das der Zustimmung des Bundesrates bedarf, können Staaten bestimmt werden, bei denen auf Grund der Rechtslage, der Rechtsanwendung und der allgemeinen politischen Verhältnisse gewährleistet erscheint, daß dort weder politische Verfolgung noch unmenschliche oder erniedrigende Bestrafung oder Behandlung stattfindet. Es wird vermutet, daß ein Ausländer aus einem solchen Staat nicht verfolgt wird, solange er nicht Tatsachen vorträgt, die die Annahme begründen, daß er entgegen dieser Vermutung politisch verfolgt wird.  
+**(4)** Die Vollziehung aufenthaltsbeendender Maßnahmen wird in den Fällen des Absatzes 3 und in anderen Fällen, die offensichtlich unbegründet sind oder als offensichtlich unbegründet gelten, durch das Gericht nur ausgesetzt, wenn ernstliche Zweifel an der Rechtmäßigkeit der Maßnahme bestehen; der Prüfungsumfang kann eingeschränkt werden und verspätetes Vorbringen unberücksichtigt bleiben. Das Nähere ist durch Gesetz zu bestimmen.  
+**(5)** Die Absätze 1 bis 4 stehen völkerrechtlichen Verträgen von Mitgliedstaaten der Europäischen Gemeinschaften untereinander und mit dritten Staaten nicht entgegen, die unter Beachtung der Verpflichtungen aus dem Abkommen über die Rechtsstellung der Flüchtlinge und der Konventionzum Schutze der Menschenrechte und Grundfreiheiten, deren Anwendung in den Vertragsstaaten sichergestellt sein muss, Zuständigkeitsregelungen für die Prüfung von Asylbegehren einschließlich der gegenseitigen Anerkennung von Asylentscheidungen treffen.  
 
 ### Artikel 17
 
@@ -124,7 +132,7 @@ Jedermann hat das Recht, sich einzeln oder in Gemeinschaft mit anderen schriftli
 
 ### Artikel 18
 
-Wer die Freiheit der Meinungsäußerung, insbesondere die Pressefreiheit (Artikel 5 Absatz 1), die Lehrfreiheit (Artikel 5 Absatz 3), die Versammlungsfreiheit (Artikel 8), die Vereinigungsfreiheit (Artikel 9), das Brief-, Post- und Fernmeldegeheimnis (Artikel 10), das Eigentum (Artikel 14) oder das Asylrecht (Artikel 16 Absatz 2) zum Kampfe gegen die freiheitliche demokratische Grundordnung mißbraucht, verwirkt diese Grundrechte. Die Verwirkung und ihr Ausmaß werden durch das Bundesverfassungsgericht ausgesprochen.  
+Wer die Freiheit der Meinungsäußerung, insbesondere die Pressefreiheit (Artikel 5 Absatz 1), die Lehrfreiheit (Artikel 5 Absatz 3), die Versammlungsfreiheit (Artikel 8), die Vereinigungsfreiheit (Artikel 9), das Brief-, Post- und Fernmeldegeheimnis (Artikel 10), das Eigentum (Artikel 14) oder das Asylrecht (Artikel 16a) zum Kampfe gegen die freiheitliche demokratische Grundordnung mißbraucht, verwirkt diese Grundrechte. Die Verwirkung und ihr Ausmaß werden durch das Bundesverfassungsgericht ausgesprochen.  
 
 ### Artikel 19
 
