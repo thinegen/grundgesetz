@@ -507,18 +507,22 @@ Die konkurrierende Gesetzgebung erstreckt sich auf folgende Gebiete:
 22. den Straßenverkehr, das Kraftfahrwesen, den Bau und die Unterhaltung von Landstraßen für den Fernverkehr sowie die Erhebung und Verteilung von Gebühren für die Benutzung öffentlicher Straßen mit Fahrzeugen;  
 23. die Schienenbahnen, die nicht Bundeseisenbahnen sind, mit Ausnahme der Bergbahnen.  
 
+### Artikel 74a
+
+**(1)** Die konkurrierende Gesetzgebung erstreckt sich ferner auf die Besoldung und Versorgung der Angehörigen des öffentlichen Dienstes, die in einem öffentlich-rechtlichen Dienst- und Treueverhältnis stehen, soweit dem Bund nicht nach Artikel 73 Nr. 8 die ausschließliche Gesetzgebung zusteht.  
+**(2)** Bundesgesetze nach Absatz 1 bedürfen der Zustimmung des Bundesrates.  
+**(3)** Der Zustimmung des Bundesrates bedürfen auch Bundesgesetze nach Artikel 73 Nr. 8, soweit sie andere Maßstäbe für den Aufbau oder die Bemessung der Besoldung und Versorgung einschließlich der Bewertung der Ämter oder andere Mindest- oder Höchstbeträge vorsehen als Bundes-gesetze nach Absatz 1.  
+**(4)** Die Absätze 1 und 2 gelten entsprechend für die Besoldung und Versorgung der Landesrichter. Für Gesetze nach Artikel 98 Abs. 1 gilt Absatz 3 entsprechend.  
+
 ### Artikel 75
 
-**(1)**  Der Bund hat das Recht, unter den Voraussetzungen des Artikels 72 Rahmenvorschriften zu erlassen über:  
-1. die Rechtsverhältnisse der im öffentlichen Dienste der Länder, Gemeinden und anderen Körperschaften des öffentlichen Rechtes stehenden Personen;  
+Der Bund hat das Recht, unter den Voraussetzungen des Artikels 72 Rahmenvorschriften zu erlassen über:  
+1. die Rechtsverhältnisse der im öffentlichen Dienste der Länder, Gemeinden und anderen Körperschaften des öffentlichen Rechtes stehenden Personen, soweit Artikel 74a nichts anderes bestimmt;  
 1a. die allgemeinen Grundsätze des Hochschulwesens;  
 2. die allgemeinen Rechtsverhältnisse der Presse und des Films;  
 3. das Jagdwesen, den Naturschutz und die Landschaftspflege;  
 4. die Bodenverteilung, die Raumordnung und den Wasserhaushalt;  
 5. das Melde- und Ausweiswesen.  
-
-**(2)** Rahmenvorschriften nach Absatz 1 Nr. 1 können mit Zustimmung des Bundesrates auch einheitliche Maßstäbe für den Aufbau und die Bemessung der Besoldung einschließlich der Bewertung der Ämter sowie Mindest- und Höchstbeiträge vorsehen. Der Zustimmung des Bundesrates bedürfen auch Gesetze nach Artikel 73 Nr. 8, die von den nach Satz 1 getroffenen Regeln abweichen.  
-**(3)** Absatz 2 gilt für Rahmenvorschriften nach Artikel 98 Abs. 3 Satz 2 und Gesetze nach Artikel 98 Abs. 1 entsprechend.  
 
 ### Artikel 76
 
@@ -703,7 +707,7 @@ Die rechtsprechende Gewalt ist den Richtern anvertraut; sie wird durch das Bunde
 
 **(1)** Die Rechtsstellung der Bundesrichter ist durch besonderes Bundesgesetz zu regeln.  
 **(2)** Wenn ein Bundesrichter im Amte oder außerhalb des Amtes gegen die Grundsätze des Grundgesetzes oder gegen die verfassungsmäßige Ordnung eines Landes verstößt, so kann das Bundesverfassungsgericht mit Zweidrittelmehrheit auf Antrag des Bundestages anordnen, daß der Richter in ein anderes Amt oder in den Ruhestand zu versetzen ist. Im Falle eines vorsätzlichen Verstoßes kann auf Entlassung erkannt werden.  
-**(3)** Die Rechtsstellung der Richter in den Ländern ist durch besondere Landesgesetze zu regeln. Der Bund kann Rahmenvorschriften erlassen.  
+**(3)** Die Rechtsstellung der Richter in den Ländern ist durch besondere Landesgesetze zu regeln. Der Bund kann Rahmenvorschriften erlassen, soweit Artikel 74a Abs. 4 nichts anderes bestimmt.  
 **(4)** Die Länder können bestimmen, daß über die Anstellung der Richter in den Ländern der Landesjustizminister gemeinsam mit einem Richterwahlausschuß entscheidet.  
 **(5)** Die Länder können für Landesrichter eine Absatz 2 entsprechende Regelung treffen. Geltendes Landesverfassungsrecht bleibt unberührt. Die Entscheidung über eine Richteranklage steht dem Bundesverfassungsgericht zu.  
 
