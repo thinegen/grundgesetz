@@ -665,7 +665,7 @@ wenn er die Steuern ganz oder zum Teil zur Dekkung der Bundesausgaben in Anspruc
 
 ### Artikel 107
 
-Die endgültige Verteilung der der konkurrierenden Gesetzgebung unterliegenden Steuern auf Bund und Länder soll spätestens bis zum 31. Dezember 1952 erfolgen, und zwar durch Bundesgesetz, das der Zustimmung des Bundesrates bedarf. Dies gilt nicht für die Realsteuern und die Steuern mit örtlich bedingtem Wirkungskreis. Hierbei ist jedem Teil ein gesetzlicher Anspruch auf bestimmte Steuern oder Steueranteile entsprechend seinen Aufgaben einzuräumen.  
+Die endgültige Verteilung der der konkurrierenden Gesetzgebung unterliegenden Steuern auf Bund und Länder soll spätestens bis zum 31. Dezember 1954 erfolgen, und zwar durch Bundesgesetz, das der Zustimmung des Bundesrates bedarf. Dies gilt nicht für die Realsteuern und die Steuern mit örtlich bedingtem Wirkungskreis. Hierbei ist jedem Teil ein gesetzlicher Anspruch auf bestimmte Steuern oder Steueranteile entsprechend seinen Aufgaben einzuräumen.  
 
 ### Artikel 108
 
