@@ -586,6 +586,11 @@ Die zahlenmäßige Stärke der vom Bunde zur Verteidigung aufgestellten Streitkr
 
 Gesetze die aufgrund des Artikels 74 Nr. 11a ergehen, können mit Zustimmung des Bundesrates bestimmen, daß sie von den Ländern im Auftrag des Bundes ausgeführt werden.  
 
+### Artikel 87d
+
+**(1)** Die Luftverkehrsverwaltung wird in bundeseigener Verwaltung geführt.  
+**(2)** Durch Bundesgesetz, das der Zustimmung des Bundesrates bedarf, können Aufgaben der Luftverkehrsverwaltung den Ländern als Auftragsverwaltung übertragen werden.  
+
 ### Artikel 88
 
 Der Bund errichtet eine Währungs- und Notenbank als Bundesbank.  
