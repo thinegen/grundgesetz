@@ -692,6 +692,7 @@ Die rechtsprechende Gewalt ist den Richtern anvertraut; sie wird durch das Bunde
 **(2)** Der Bund kann Wehrstrafgerichte für die Streitkräfte als Bundesgerichte errichten. Sie können die Strafgerichtsbarkeit nur im Verteidigungsfalle sowie über Angehörige der Streitkräfte ausüben, die in das Ausland entsandt oder an Bord von Kriegsschiffen eingeschifft sind. Das Nähere regelt ein Bundesgesetz. Diese Gerichte gehören zum Geschäftsbereich des Bundesjustizministers. Ihre hauptamtlichen Richter müssen die Befähigung zum Richteramt haben.  
 **(3)** Oberster Gerichtshof für die in Absatz 1 und 2 genannten Gerichte ist der Bundesgerichtshof.  
 **(4)** Der Bund kann für Personen, die zu ihm in einem öffentlich-rechtlichen Verhältnis stehen, Bundesgerichte zur Entscheidung in Disziplinarverfahren und Beschwerdeverfahren errichten.  
+**(5)** Für Strafverfahren auf den Gebieten des Artikels 26 Abs. 1 und des Staatsschutzes kann ein Bundesgesetz mit Zustimmung des Bundesrates vorsehen, daß Gerichte der Länder Gerichtsbarkeit des Bundes ausüben.  
 
 ### Artikel 97
 
