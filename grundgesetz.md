@@ -244,7 +244,7 @@ Verletzt jemand in Ausübung eines ihm anvertrauten öffentlichen Amtes die ihm 
 ### Artikel 38
 
 **(1)** Die Abgeordneten des Deutschen Bundestages werden in allgemeiner, unmittelbarer, freier, gleicher und geheimer Wahl gewählt. Sie sind Vertreter des ganzen Volkes, an Aufträge und Weisungen nicht gebunden und nur ihrem Gewissen unterworfen.  
-**(2)** Wahlberechtigt ist, wer das einundzwanzigste, wählbar, wer das fünfundzwanzigste Lebensjahr vollendet hat.  
+**(2)** Wahlberechtigt ist, wer das achtzehnte Lebensjahr vollendet hat; wählbar ist, wer das Alter erreicht hat, mit dem die Volljährigkeit eintritt.  
 **(3)** Das Nähere bestimmt ein Bundesgesetz.  
 
 ### Artikel 39
@@ -644,7 +644,7 @@ Der Bund errichtet eine Währungs- und Notenbank als Bundesbank.
 ### Artikel 91a
 
 **(1)** Der Bund wirkt auf folgenden Gebieten bei der Erfüllung von Aufgaben der Länder mit, wenn diese Aufgaben für die Gesamtheit bedeutsam sind und die Mitwirkung des Bundes zur Verbesserung der Lebensverhältnisse erforderlich ist (Gemeinschaftsaufgaben):  
-1. Ausbau und Neubau von wissenschaftlichen Hochschulen einschließlich der Hochschulkliniken,  
+1. Ausbau und Neubau von Hochschulen einschließlich der Hochschulkliniken,  
 2. Verbesserung der regionalen Wirtschaftsstruktur,  
 3. Verbesserung der Agrarstruktur und des Küstenschutzes.  
 
