@@ -115,7 +115,7 @@ Grund und Boden, Naturschätze und Produktionsmittel können zum Zwecke der Verg
 ### Artikel 16
 
 **(1)** Die deutsche Staatsangehörigkeit darf nicht entzogen werden. Der Verlust der Staatsangehörigkeit darf nur auf Grund eines Gesetzes und gegen den Willen des Betroffenen nur dann eintreten, wenn der Betroffene dadurch nicht staatenlos wird.  
-**(2)** Kein Deutscher darf an das Ausland ausgeliefert werden.  
+**(2)** Kein Deutscher darf an das Ausland ausgeliefert werden. Durch Gesetz kann eine abweichende Regelung für Auslieferungen an einen Mitgliedstaat der Europäischen Union oder an einen internationalen Gerichtshof getroffen werden, soweit rechtsstaatliche Grundsätze gewahrt sind.  
 
 ### Artikel 16a
 
