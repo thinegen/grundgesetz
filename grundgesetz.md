@@ -297,6 +297,11 @@ Verletzt jemand in Ausübung eines ihm anvertrauten öffentlichen Amtes die ihm 
 
 Zum Schutz der Grundrechte und als Hilfsorgan des Bundestages bei der Ausübung der parlamentarischen Kontrolle wird ein Wehrbeauftragter des Bundestages berufen. Das Nähere regelt ein Bundesgesetz.  
 
+### Artikel 45c
+
+**(1)** Der Bundestag bestellt einen Petitionsausschuß, dem die Behandlung der nach Artikel 17 an den Bundestag gerichteten Bitten und Beschwerden obliegt.  
+**(2)** Die Befugnisse des Ausschusses zur Überprüfung von Beschwerden regelt ein Bundesgesetz.  
+
 ### Artikel 46
 
 **(1)** Ein Abgeordneter darf zu keiner Zeit wegen seiner Abstimmung oder wegen einer Äußerung, die er im Bundestage oder in einem seiner Ausschüsse getan hat, gerichtlich oder dienstlich verfolgt oder sonst außerhalb des Bundestages zur Verantwortung gezogen werden. Dies gilt nicht für verleumderische Beleidigungen.  
