@@ -524,7 +524,7 @@ Die konkurrierende Gesetzgebung erstreckt sich auf folgende Gebiete:
 
 **(1)** Gesetzesvorlagen werden beim Bundestage durch die Bundesregierung, aus der Mitte des Bundestages oder durch den Bundesrat eingebracht.  
 **(2)** Vorlagen der Bundesregierung sind zunächst dem Bundesrat zuzuleiten. Der Bundesrat ist berechtigt, innerhalb von sechs Wochen zu diesen Vorlagen Stellung zu nehmen. Die Bundesregierung kann eine Vorlage, die sie bei der Zuleitung an den Bundesrat ausnahmsweise als besonders eilbedürftig bezeichnet hat, nach drei Wochen dem Bundestage zuleiten, auch wenn die Stellungnahme des Bundesrates noch nicht bei ihr eingegangen ist; sie hat die Stellungnahme des Bundesrates unverzüglich nach Eingang dem Bundestage nachzureichen.  
-**(3)** Vorlagen des Bundesrates sind dem Bundestag durch die Bundesregierung zuzuleiten. Sie hat hierbei ihre Auffassung darlegen.  
+**(3)** Vorlagen des Bundesrates sind dem Bundestage durch die Bundesregierung innerhalb von drei Monaten zuzuleiten. Sie hat hierbei ihre Auffassung darlegen.  
 
 ### Artikel 77
 
